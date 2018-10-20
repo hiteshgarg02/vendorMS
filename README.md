@@ -1,2 +1,0 @@
-# vendorMS
-Created with CodeSandbox
